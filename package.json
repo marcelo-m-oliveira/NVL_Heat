@@ -1,0 +1,8 @@
+{
+  "name": "NVL_Heat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/marcelo-m-oliveira/NVL_Heat.git",
+  "author": "marcelo-m-oliveira <marcelomra.oliveira@gmail.com>",
+  "license": "MIT"
+}
